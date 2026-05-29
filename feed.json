@@ -1,6 +1,30 @@
 [
   {
     "name": "ZouRemote",
-    "repo": "ZouRemote"
+    "repo": "ZouRemote",
+    "version": "1.0",
+    "description": "Control remoto",
+    "icon": "https://raw.githubusercontent.com/theking-cs/ZouRemote/main/plugin.png"
+  },
+  {
+    "name": "ZouPlayer",
+    "repo": "ZouPlayer",
+    "version": "1.0",
+    "description": "Reproductor multimedia",
+    "icon": "https://raw.githubusercontent.com/theking-cs/ZouPlayer/main/plugin.png"
+  },
+  {
+    "name": "PhotoBrowser",
+    "repo": "Photobrowser",
+    "version": "1.0",
+    "description": "Explorador de imágenes",
+    "icon": "https://raw.githubusercontent.com/theking-cs/Photobrowser/main/plugin.png"
+  },
+  {
+    "name": "Downloader",
+    "repo": "downloader",
+    "version": "1.0",
+    "description": "Gestor de descargas",
+    "icon": "https://raw.githubusercontent.com/theking-cs/downloader/main/plugin.png"
   }
 ]
