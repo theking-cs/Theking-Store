@@ -14,8 +14,6 @@
     "icon": "https://raw.githubusercontent.com/theking-cs/ZouPlayer/main/plugin.png"
   },
   {
-    },
-  {
     "name": "Mp3downloader",
     "repo": "Mp3downloader",
     "version": "1.0",
