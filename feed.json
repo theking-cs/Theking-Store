@@ -17,21 +17,21 @@
     "name": "Mp3downloader",
     "repo": "Mp3downloader",
     "version": "1.0",
-    "description": "download and play videos on youtube",
+    "description": "Busca, reproduce y descarga vídeos o audio de YouTube",
     "icon": "https://raw.githubusercontent.com/theking-cs/Mp3downloader/main/plugin.png"
   },
   {
     "name": "PhotoBrowser",
-    "repo": "Photobrowser",
+    "repo": "PhotoBrowser",
     "version": "1.0",
     "description": "Explorador de imágenes",
-    "icon": "https://raw.githubusercontent.com/theking-cs/Photobrowser/main/plugin.png"
+    "icon": "https://raw.githubusercontent.com/theking-cs/PhotoBrowser/main/plugin.png"
   },
   {
     "name": "Downloader",
-    "repo": "downloader",
+    "repo": "Downloader",
     "version": "1.0",
     "description": "Gestor de descargas",
-    "icon": "https://raw.githubusercontent.com/theking-cs/downloader/main/plugin.png"
+    "icon": "https://raw.githubusercontent.com/theking-cs/Downloader/main/plugin.png"
   }
 ]
