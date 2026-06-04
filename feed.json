@@ -14,6 +14,15 @@
     "icon": "https://raw.githubusercontent.com/theking-cs/ZouPlayer/main/plugin.png"
   },
   {
+    },
+  {
+    "name": "Mp3downloader",
+    "repo": "Mp3downloader",
+    "version": "1.0",
+    "description": "download and play videos on youtube",
+    "icon": "https://raw.githubusercontent.com/theking-cs/Mp3downloader/main/plugin.png"
+  },
+  {
     "name": "PhotoBrowser",
     "repo": "Photobrowser",
     "version": "1.0",
