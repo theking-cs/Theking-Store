@@ -17,13 +17,13 @@
     "name": "Calculadora",
     "repo": "Calculadora",
     "version": "1.2",
-    "description": " una calculadora simple",
+    "description": "una calculadora simple",
     "icon": "https://raw.githubusercontent.com/theking-cs/Calculadora/main/plugin.png"
   },
   {
     "name": "ZouPlayer",
     "repo": "ZouPlayer",
-    "version": "1.2",
+    "version": "1.0",
     "description": "Reproductor multimedia",
     "icon": "https://raw.githubusercontent.com/theking-cs/ZouPlayer/main/plugin.png"
   },
