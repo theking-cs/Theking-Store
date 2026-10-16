@@ -1,5 +1,13 @@
 [
   {
+    "name": "ZouRemote Script",
+    "repo": "ZouRemote",
+    "version": "1.0",
+    "description": "Para que funcione siempre instalar el script",
+    "icon": "https://raw.githubusercontent.com/theking-cs/ZouRemote/main/plugin.png",
+    "install_url": "https://raw.githubusercontent.com/theking-cs/ZouRemote/main/script_zouremote.sh"
+  },
+  {
     "name": "ZouRemote",
     "repo": "ZouRemote",
     "version": "1.0",
